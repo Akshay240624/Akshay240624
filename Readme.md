@@ -8,7 +8,7 @@
 🌱 Currently learning **Power BI**, **Tableau**, and **Advanced Excel**  
 💻 Skilled in **SQL**, **Python (Pandas, NumPy)**, and data visualization  
 💞️ Open to collaborating on real-world analytics or dashboard projects  
-📫 Reach me at :: (mailto -- akshaybharmal7@gmail.com) 
+📫 Reach me at ---- akshaybharmal7@gmail.com
 ⚡ Fun fact: I can make messy data tell beautiful stories!  
 
 ---
