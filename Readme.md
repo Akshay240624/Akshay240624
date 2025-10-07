@@ -9,7 +9,6 @@
 💻 Skilled in **SQL**, **Python (Pandas, NumPy)**, and data visualization  
 💞️ Open to collaborating on real-world analytics or dashboard projects  
 📫 Reach me at :: mailto -- akshaybharmal7@gmail.com 
-
 ⚡ Fun fact: I can make messy data tell beautiful stories!  
 
 ---
